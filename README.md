@@ -1,0 +1,1 @@
+# Singleton-Bridge-State-patterns-implementation
